@@ -14,3 +14,4 @@ This is a block of _patch B_.
 <summary>I cant' typ goods</summary>
 This commit message should be change.
 </details>
+
